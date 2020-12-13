@@ -1,4 +1,6 @@
-;; .emacs
+;;;
+;;; .emacs
+;;;
 
 ;; Global
 (setq-default make-backup-files nil)
